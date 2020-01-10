@@ -21,7 +21,7 @@ public class Main {
         System.out.println(fiboEvenSum(43));
     }
 
-    public static int fiboEvenSum(int number){
+    public static int fiboEvenSum (int number){
         int a;
         int b = 0;
         int c = 1;
